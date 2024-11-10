@@ -7,5 +7,5 @@ It arises in the lining cells (epithelium) of the ducts (85%) or lobules (15%) i
 Most types of breast cancer are easy to diagnose by microscopic analysis of a sample - or biopsy - of the affected area of the breast. Also, there are types of breast cancer that require specialized lab exams.
 
 
-![Uploading image.png…]()
 
+![Uploading Auxiliary-Diagnosis-of-Breast-Cancer-_Architecture-diagram_.png…]()
