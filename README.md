@@ -9,5 +9,4 @@ Most types of breast cancer are easy to diagnose by microscopic analysis of a sa
 
 
 
-![Uploading image.png…]()
-
+![Auxiliary-Diagnosis-of-Breast-Cancer-_Architecture-diagram_ (1)](https://github.com/user-attachments/assets/38b274b1-022c-454c-916c-afcb938b6b8a)
