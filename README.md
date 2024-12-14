@@ -36,11 +36,13 @@ The dataset contains **32 features** (e.g., `radius_mean` ,	`texture_mean` , 	`p
 ## Technologies Used
 - Python (Pandas, Scikit-Learn, Matplotlib)
 - Jupyter Notebook
-## Prerequisites:
-###  Install libraries:   ```bash
-  pip install pandas scikit-learn matplotlib
-## Run the Project:
-### Clone the repository:   ```bash
+## Prerequisites
+###  Install libraries: 
+`bash`
+pip install pandas scikit-learn matplotlib
+## Run the Project
+### Clone the repository:
+`bash`
 git clone https://github.com/yourusername/Breast_Cancer.git
 
 
