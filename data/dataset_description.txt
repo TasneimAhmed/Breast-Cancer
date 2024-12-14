@@ -1,0 +1,3 @@
+This dataset contains `32` features related to breast cancer diagnosis.
+- Total rows: 569 record
+- Target column: Diagnosis (M = Malignant, B = Benign)
