@@ -43,7 +43,7 @@ pip install pandas scikit-learn matplotlib
 ## Run the Project
 ### Clone the repository:
 
-git clone https://github.com/yourusername/Breast_Cancer.git
+[git clone https://github.com/yourusername/Breast_Cancer.git](https://github.com/TasneimAhmed/Breast-Cancer.git)
 
 
 
