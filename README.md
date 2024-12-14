@@ -17,7 +17,6 @@ The dataset contains **32 features** (e.g., `radius_mean` ,	`texture_mean` , 	`p
 | texture_mean      | Variation in texture         |
 | ...               | ...                          |
 
-## Dataset
 - **Source**: https://github.com/TasneimAhmed/Breast-Cancer/blob/main/breast_cancer.csv 
 - **Features**: 32 features, including `mean_radius`, `mean_texture`, and `mean_area`....
 - **Target**: Diagnosis (`M` = Malignant, `B` = Benign).
@@ -38,14 +37,15 @@ The dataset contains **32 features** (e.g., `radius_mean` ,	`texture_mean` , 	`p
 - Python (Pandas, Scikit-Learn, Matplotlib)
 - Jupyter Notebook
 ## Prerequisites:
-###  Install libraries:
-## Run the Project:
-### Clone the repository:
-  ```bash
+###  Install libraries:   ```bash
   pip install pandas scikit-learn matplotlib
-
-  ```bash
+## Run the Project:
+### Clone the repository:   ```bash
 git clone https://github.com/yourusername/Breast_Cancer.git
 
+
+
+
                                                     
-                          
+       
+                
