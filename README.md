@@ -1,6 +1,6 @@
-**Breast Cancer:**  Breast cancer is cancer that forms in the cells of the breasts. It arises in the lining cells (epithelium) of the ducts (85%) or lobules (15%) in the glandular tissue of the breast. Initially, the cancerous growth is confined to the duct or lobule (“in situ”) where it generally causes no symptoms and has minimal potential for spread (metastasis). Most types of breast cancer are easy to diagnose by microscopic analysis of a sample - or biopsy - of the affected area of the breast. Also, there are types of breast cancer that require specialized lab exams.
+## **Breast Cancer:**  Breast cancer is cancer that forms in the cells of the breasts. It arises in the lining cells (epithelium) of the ducts (85%) or lobules (15%) in the glandular tissue of the breast. Initially, the cancerous growth is confined to the duct or lobule (“in situ”) where it generally causes no symptoms and has minimal potential for spread (metastasis). Most types of breast cancer are easy to diagnose by microscopic analysis of a sample - or biopsy - of the affected area of the breast. Also, there are types of breast cancer that require specialized lab exams.
 
-# **Task:** binary classification for breast cancer (Tabular Data).
+**Task:** binary classification for breast cancer (Tabular Data).
 
 ## Overview
 This project predicts whether a tumor is **malignant** or **benign** based on a set of clinical measurements.
@@ -16,12 +16,11 @@ The dataset contains **32 features** (e.g., `radius_mean` ,	`texture_mean` , 	`p
 | texture_mean      | Variation in texture         |
 | ...               | ...                          |
 
-
 ## Dataset
 - **Source**: 
 - **Features**: 32 features, including `mean_radius`, `mean_texture`, and `mean_area`....
 - **Target**: Diagnosis (`M` = Malignant, `B` = Benign).
-
+- **Split**:  into train and test (80:20)
 ---
 
 ## Project Workflow
@@ -32,21 +31,12 @@ The dataset contains **32 features** (e.g., `radius_mean` ,	`texture_mean` , 	`p
 3. **Evaluation**:
    - Best Model: NN.
    - Accuracy: **98%**.
-   - Confusion Matrix:
 
-     |   | Predicted B | Predicted M |
-     |---|-------------|-------------|
-     | **Actual B** | 300         | 5           |
-     | **Actual M** | 10          | 285         |
-
----
 
 ## Results
-- **Precision**: 96%
-- **Recall**: 95%
-- **AUC-ROC**: 0.98
+- **Precision**: 97%
+- **Recall**: 97%
 
----
 
 ## Technologies Used
 - Python (Pandas, Scikit-Learn, Matplotlib)
